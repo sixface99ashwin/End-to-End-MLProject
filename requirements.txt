@@ -2,5 +2,8 @@ numpy
 pandas
 seaborn
 scikit-learn
+dill
+# catboost
+# xgboost
 
-#-e .
+-e .
